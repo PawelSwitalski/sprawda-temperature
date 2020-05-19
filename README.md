@@ -1,3 +1,3 @@
 # sprawda-temperature
 
-Plikiem głównym jest aplikacja.pl
+Plikiem głównym jest aplikacja.py
